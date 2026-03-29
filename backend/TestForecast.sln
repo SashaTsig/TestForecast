@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForecast.Web", "TestForecast.Web\TestForecast.Web.csproj", "{1F02AB9D-79CF-4687-A311-9BD82B69AB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForecast.Application", "TestForecast.Application\TestForecast.Application.csproj", "{A44094D9-36AA-4716-9F7F-4B8F38FEB161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F02AB9D-79CF-4687-A311-9BD82B69AB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F02AB9D-79CF-4687-A311-9BD82B69AB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F02AB9D-79CF-4687-A311-9BD82B69AB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F02AB9D-79CF-4687-A311-9BD82B69AB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44094D9-36AA-4716-9F7F-4B8F38FEB161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44094D9-36AA-4716-9F7F-4B8F38FEB161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44094D9-36AA-4716-9F7F-4B8F38FEB161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44094D9-36AA-4716-9F7F-4B8F38FEB161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C719057B-3587-4F06-86A7-D6C3A643D0A7}
+	EndGlobalSection
+EndGlobal
