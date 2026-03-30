@@ -28,7 +28,6 @@ namespace TestForecast.Web.Controllers
         [ResponseType(typeof(ForecastDto))]
         public IHttpActionResult Get(double lat, double lon)
         {
-            throw new Exception("Boom!");
             var result = _forecastService.GetForecast(lat, lon);
 
             return Ok(result);
