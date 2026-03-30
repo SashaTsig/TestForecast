@@ -5,3 +5,5 @@ obj/
 .editorconfig
 .vs/
 Logs/
+.angular/
+node_modules/
